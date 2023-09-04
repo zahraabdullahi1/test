@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+background: url(images/image-header.jpg);
+background-size: cover;
+height: 100vh;
+padding: 25px 30px;
+}
